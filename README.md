@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DHRUVPAWAR12
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... Computer Engineering
 - 💞️ I’m looking to collaborate on ... Web Development and Software Development
 - 📫 How to reach me ... 
 
