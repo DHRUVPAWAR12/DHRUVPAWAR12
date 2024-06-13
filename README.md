@@ -37,10 +37,6 @@
 </p>
 <!--<details><summary><b>Work Stats 🐱‍👤📈</b></summary><br/>-->
 
-## Work Stats 📈
-_(since 01 Apr, 24)_
-
-
 
 ![DHRUVPAWAR12 github stats](https://github-readme-stats.vercel.app/api?username=DHRUVPAWAR12&theme=github_dark&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DHRUVPAWAR12&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
