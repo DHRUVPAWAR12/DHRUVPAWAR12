@@ -11,7 +11,7 @@
 ## Development 🛠️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=react,html,js,css,sass" />
+    <img src="https://skillicons.dev/icons?perline=6&i=react,html,js,css,,wordpress,sass" />
   </a>
 </p>
 
